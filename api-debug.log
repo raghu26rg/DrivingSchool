@@ -1,0 +1,2 @@
+BODY: {"paymentMethod":"card","totalFee":5000,"paidAmount":2000}
+BODY: {"paymentMethod":"pending","totalFee":0,"paidAmount":0}
